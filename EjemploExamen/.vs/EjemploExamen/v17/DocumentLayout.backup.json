@@ -1,7 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Users\\dam223\\Desktop\\Datos\\WsDatos\\EjemploExamen\\EjemploExamen\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Users\\dam223\\Desktop\\Datos\\WsDatos\\EjemploExamen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E43EFBE-09F2-47A1-B307-2B3F36CE267B}|EjemploExamen\\EjemploExamen.csproj|d:\\users\\dam223\\desktop\\datos\\wsdatos\\ejemploexamen\\ejemploexamen\\views\\booklist\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E43EFBE-09F2-47A1-B307-2B3F36CE267B}|EjemploExamen\\EjemploExamen.csproj|solutionrelative:ejemploexamen\\views\\booklist\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E43EFBE-09F2-47A1-B307-2B3F36CE267B}|EjemploExamen\\EjemploExamen.csproj|d:\\users\\dam223\\desktop\\datos\\wsdatos\\ejemploexamen\\ejemploexamen\\views\\booklist\\succesful.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E43EFBE-09F2-47A1-B307-2B3F36CE267B}|EjemploExamen\\EjemploExamen.csproj|solutionrelative:ejemploexamen\\views\\booklist\\succesful.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E43EFBE-09F2-47A1-B307-2B3F36CE267B}|EjemploExamen\\EjemploExamen.csproj|d:\\users\\dam223\\desktop\\datos\\wsdatos\\ejemploexamen\\ejemploexamen\\models\\viewmodel\\bookview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E43EFBE-09F2-47A1-B307-2B3F36CE267B}|EjemploExamen\\EjemploExamen.csproj|solutionrelative:ejemploexamen\\models\\viewmodel\\bookview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bookView.cs",
+              "DocumentMoniker": "D:\\Users\\dam223\\Desktop\\Datos\\WsDatos\\EjemploExamen\\EjemploExamen\\Models\\ViewModel\\bookView.cs",
+              "RelativeDocumentMoniker": "EjemploExamen\\Models\\ViewModel\\bookView.cs",
+              "ToolTip": "D:\\Users\\dam223\\Desktop\\Datos\\WsDatos\\EjemploExamen\\EjemploExamen\\Models\\ViewModel\\bookView.cs",
+              "RelativeToolTip": "EjemploExamen\\Models\\ViewModel\\bookView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:08:47.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Succesful.cshtml",
+              "DocumentMoniker": "D:\\Users\\dam223\\Desktop\\Datos\\WsDatos\\EjemploExamen\\EjemploExamen\\Views\\BookList\\Succesful.cshtml",
+              "RelativeDocumentMoniker": "EjemploExamen\\Views\\BookList\\Succesful.cshtml",
+              "ToolTip": "D:\\Users\\dam223\\Desktop\\Datos\\WsDatos\\EjemploExamen\\EjemploExamen\\Views\\BookList\\Succesful.cshtml",
+              "RelativeToolTip": "EjemploExamen\\Views\\BookList\\Succesful.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T16:59:44.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "D:\\Users\\dam223\\Desktop\\Datos\\WsDatos\\EjemploExamen\\EjemploExamen\\Views\\BookList\\Home.cshtml",
+              "RelativeDocumentMoniker": "EjemploExamen\\Views\\BookList\\Home.cshtml",
+              "ToolTip": "D:\\Users\\dam223\\Desktop\\Datos\\WsDatos\\EjemploExamen\\EjemploExamen\\Views\\BookList\\Home.cshtml",
+              "RelativeToolTip": "EjemploExamen\\Views\\BookList\\Home.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T16:57:38.83Z",
+              "EditorCaption": ""
             }
           ]
         }
