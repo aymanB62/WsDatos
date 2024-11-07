@@ -15,5 +15,6 @@ namespace Angular_ASPNETCore_CustomersService.Models {
     public string Gender { get; set; }
     public int OrderCount { get; set; }
     public ICollection<Order> Orders { get; set; }
+    public int Age { get; set; }
   }
 }

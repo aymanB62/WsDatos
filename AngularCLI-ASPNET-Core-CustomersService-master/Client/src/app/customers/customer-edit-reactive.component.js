@@ -28,6 +28,7 @@ var CustomerEditReactiveComponent = (function () {
             address: '',
             email: '',
             city: '',
+            age: '',
             stateId: 0,
             zip: 0
         };
@@ -58,6 +59,7 @@ var CustomerEditReactiveComponent = (function () {
             email: [this.customer.email, [forms_1.Validators.required, validation_service_1.ValidationService.emailValidator]],
             address: [this.customer.address, forms_1.Validators.required],
             city: [this.customer.city, forms_1.Validators.required],
+            age: [this.customer.age, forms_1.Validators.required],
             stateId: [this.customer.stateId, forms_1.Validators.required]
         });
     };

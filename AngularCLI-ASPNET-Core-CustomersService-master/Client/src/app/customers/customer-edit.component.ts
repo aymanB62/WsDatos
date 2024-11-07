@@ -17,6 +17,7 @@ export class CustomerEditComponent implements OnInit {
     address: '',
     email: '',
     city: '',
+    age: '',
     zip: 0
   };
   states: IState[] = [];

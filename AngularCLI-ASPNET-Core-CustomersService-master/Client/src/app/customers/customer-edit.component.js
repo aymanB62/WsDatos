@@ -24,6 +24,7 @@ var CustomerEditComponent = (function () {
             address: '',
             email: '',
             city: '',
+            age: '',
             zip: 0
         };
         this.operationText = 'Insert';
